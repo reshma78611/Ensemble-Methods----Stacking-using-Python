@@ -12,4 +12,4 @@ This is similar to Bagging But here we can use multiple models instead of using 
           Python
           
          
-**The Codes regarding Ensemble Techniques with Stacking Technique for *classification of Pima indians diabetes data* is present in this Repository in detail.
+**The Codes regarding Ensemble Techniques with Stacking Technique for *classification of Pima indians diabetes data* is present in this Repository in detail.**
